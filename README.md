@@ -1,4 +1,4 @@
-# first-boot-demo-project
+cd# first-boot-demo-project
 this is my first repository
 <br>
-author - naresh das
+author - naresh das(demo)
